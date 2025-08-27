@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367645614123",
+    "project_id": "cardo-b163b",
+    "storage_bucket": "cardo-b163b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367645614123:android:0a249c0b19392b12c10a6e",
+        "android_client_info": {
+          "package_name": "com.cardo.cardo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvYHLM4oafkUbZI7jkyIFPRS93E1gUfrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
