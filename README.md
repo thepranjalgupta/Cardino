@@ -1,16 +1,45 @@
-# cardo
+🎉 Cardino v1.0.0 – Scan. Save. Connect.
 
-A new Flutter project.
+Welcome to the first release of Cardino!
+Cardino redefines the way you manage business cards by turning paper into smart, searchable contacts using OCR technology.
 
-## Getting Started
+📝 About Cardino
 
-This project is a starting point for a Flutter application.
+Cardino is a Flutter-powered app that helps you scan, extract, and organize visiting cards effortlessly. Simply capture or upload a card, and Cardino’s OCR (Google ML Kit) pulls out the key details—Name, Company, Phone, Email, and Address—then saves them securely in your digital contact book.
 
-A few resources to get you started if this is your first Flutter project:
+✨ Key Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📷 Capture or Upload – Scan cards instantly with your camera or gallery.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🔍 OCR Extraction – Accurate text recognition powered by Google ML Kit.
+
+🗂️ Auto Parsing – Smart sorting of names, numbers, emails, and addresses.
+
+💾 Cloud Storage – Contacts saved safely with Firebase Firestore.
+
+🔎 Search & Filter – Find the right contact in seconds.
+
+📤 One-Tap Sharing – Share contacts seamlessly.
+
+🎨 Modern UI – Clean, responsive, and intuitive design with Flutter + Riverpod.
+
+🛠️ Tech Stack
+
+Flutter – Cross-platform development
+
+Firebase – Authentication & Firestore database
+
+Google ML Kit – OCR engine
+
+Riverpod – State management
+
+🚀 Why Cardino?
+
+Stop piling up paper cards—digitize them instantly.
+
+Access, search, and share contacts on the go.
+
+Designed for professionals who value speed and simplicity.
+
+Thanks for choosing Cardino! 🙌
+We’re just getting started—future updates will bring smarter parsing, contact syncing, and more. Your feedback will help shape the journey ahead.
