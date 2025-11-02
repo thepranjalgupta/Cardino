@@ -1,4 +1,5 @@
 🎉 Cardino v1.0.0 – Redefining Business Card Management
+Link:- https://drive.google.com/file/d/18lT49P89E8xu1bVtYY7nkKpyV-t3OUkF/view?usp=drivesdk
 
 We’re thrilled to introduce the very first release of Cardino!
 Cardino isn’t just another contact manager—it’s your personal assistant for handling business cards, powered by modern technology. No more cluttered wallets, messy stacks of cards, or forgotten connections. With Cardino, every business card you capture is instantly transformed into a digital, organized, and searchable contact.
